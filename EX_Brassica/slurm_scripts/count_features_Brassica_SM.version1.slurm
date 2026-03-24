@@ -42,9 +42,10 @@ done
 
 echo "Running featureCounts..."
 
-featureCounts -T 8 -p -B -t CDS -g gene_id \
+featureCounts -T 8 -p --countReadPairs -B -t CDS -g gene_id \
 -a "$gtf_file" \
 -o "$exp_path/Brassica_counts.txt" \
 $inp_path/namesorted_bam/*_namesorted.bam
+
 
 echo "Done."
