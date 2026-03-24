@@ -30,7 +30,7 @@ hisat2 -p 8 \
 -1 "${reads_1[$SLURM_ARRAY_TASK_ID]}" \
 -2 "${reads_2[$SLURM_ARRAY_TASK_ID]}" | \
 samtools view -bS - | \
-samtools sort -o $exp_path/${sample}_sorted.bam
+samtools sort -o $exp_path/${sample}_sorted.bam 
 
 
 samtools index $exp_path/${sample}_sorted.bam
