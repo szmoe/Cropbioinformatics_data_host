@@ -1,0 +1,15 @@
+Status	/data/applbio/applbio_2026/home/s73smoe/swe/experiment/Ex_B_experiment/aligned_reads/namesorted_bam/SRR24693466_pass_sorted_namesorted.bam	/data/applbio/applbio_2026/home/s73smoe/swe/experiment/Ex_B_experiment/aligned_reads/namesorted_bam/SRR24693467_pass_sorted_namesorted.bam	/data/applbio/applbio_2026/home/s73smoe/swe/experiment/Ex_B_experiment/aligned_reads/namesorted_bam/SRR24693468_pass_sorted_namesorted.bam	/data/applbio/applbio_2026/home/s73smoe/swe/experiment/Ex_B_experiment/aligned_reads/namesorted_bam/SRR24693469_pass_sorted_namesorted.bam
+Assigned	24330584	24194802	23381608	26272439
+Unassigned_Unmapped	3231695	4184070	2788890	5950369
+Unassigned_Read_Type	0	0	0	0
+Unassigned_Singleton	2691984	2416391	2831303	2889663
+Unassigned_MappingQuality	0	0	0	0
+Unassigned_Chimera	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0
+Unassigned_Duplicate	0	0	0	0
+Unassigned_MultiMapping	5893668	4185726	9495598	5766980
+Unassigned_Secondary	0	0	0	0
+Unassigned_NonSplit	0	0	0	0
+Unassigned_NoFeatures	1800499	1682570	2009006	1858346
+Unassigned_Overlapping_Length	0	0	0	0
+Unassigned_Ambiguity	539247	503862	504068	622879
